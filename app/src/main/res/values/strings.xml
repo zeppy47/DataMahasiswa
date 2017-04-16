@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Data Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="gender">Gender</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="simpan">Simpan</string>
+    <string name="error">Kesalahan Jaringan</string>
+    <string name="view">Lihat Data</string>
+</resources>
